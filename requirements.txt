@@ -3,3 +3,6 @@ Path
 asyncio
 argparse
 functools
+shtml
+request
+beautifulsoup4
